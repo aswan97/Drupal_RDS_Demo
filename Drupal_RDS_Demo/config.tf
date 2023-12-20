@@ -13,3 +13,4 @@ provider "aws" {
   secret_key = "Scx6rh3q5qHGGoJh+q7DbQb3u5ojjaeg5OvCpWrK"
 }
 
+
